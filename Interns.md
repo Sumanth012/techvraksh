@@ -25,3 +25,9 @@
  __Tech Stack__ : HTML, CSS, Javascript, Python, ML & AI, Cloud Computing ( Google Cloud, Azure, Digital Ocean ), Git , Github
  __Social Links__ : [Portfolio](https://pulkitsinghdev.tech) | [Dev](https://dev.to/PulkitSinghDev) | [Twitter](https://twitter.com/PulkitSinghDev) | [Github](https://github.com/PulkitSinghDev) | [Youtube](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A) | [Patreon](https://www.patreon.com/pulkitsinghdev)      
  __Portfolio__ : [Holistic Media Pipe](https://codepen.io/pulkitsinghdev/full/qBRpxrj) | [Discord & Twitter Bots]() | [Data Visualizer](https://github.com/PulkitSinghDev/Web-App-for-Data-Visualisation) & more...
+
+
+**Name**:Gutta Sumanth
+**About**:FrontEnd Developer | Algorithms.
+**Tech Stack**:Java,MySQL,MongoDB,Html,Css,AngularJs
+**Social Links** :LinkedIn: (https://www.linkedin.com/in/sumanth-gutta-5319961a3/) | StackOverFlow :[https://stackoverflow.com/users/14117342/gutta] | GitHub: [https://github.com/Sumanth012]
